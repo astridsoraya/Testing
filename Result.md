@@ -30,16 +30,18 @@ This is **bold** and this is *italic* and this is **_both_**
 <br/>
 
 Listing
+
 1. Bahahaha
-    1. Hahahaha
-    2. Buhahaha
+  1. Hahahaha
+  2. Buhahaha
 2. Bakakakakak
-    * Halo
-    * Mehehehe
+  * Halo
+  * Mehehehe
 
 <br/>
 
 Format
+
 Why did the `chicken` cross the road?
 <br/>
 ```
